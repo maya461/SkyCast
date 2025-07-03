@@ -1,5 +1,5 @@
 # SkyCast
-SkyCast – Real-time weather info for any city with a clean, responsive design.
+SkyCast – Real-time weather info for any city.
 
 
 SkyCast is a simple and responsive web application that shows real-time weather information for any city using the OpenWeatherMap API.
@@ -13,7 +13,7 @@ SkyCast is a simple and responsive web application that shows real-time weather 
 
 - HTML, CSS, JavaScript (Fetch API)
 - OpenWeatherMap API
-  Uses an API key to fetch and show weather data from an external service.
+- Uses an API key to fetch and show weather data from an external service.
 
 ## How to Use
 
