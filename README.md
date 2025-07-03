@@ -24,6 +24,8 @@ SkyCast is a simple and responsive web application that shows real-time weather 
 
 ## Screenshots
 
+![Weather App Screenshot](img-1.png)
+![Weather App Screenshot](img-2.png)
 
 
 
