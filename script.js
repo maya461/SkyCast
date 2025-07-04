@@ -12,7 +12,7 @@ form.addEventListener("submit", async (e) => {
 
   weatherResult.innerHTML = "<p>Loading...</p>";
 
-  const apiKey = "c8f3cd9d50ce3edc7038696db16df281"; // replace with your API key( took form  OpenWeatherMap )
+  const apiKey = ""; // replace with your API key( took form  OpenWeatherMap )
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
   try {
